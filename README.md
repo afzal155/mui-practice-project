@@ -18,22 +18,22 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ---
 
-# `Add mui ...`
+## `Add mui ...`
 
-## `npm`
+### `npm`
 
 npm install @mui/material @emotion/react @emotion/styled
 
-## `yarn`
+### `yarn`
 
 yarn add @mui/material @emotion/react @emotion/styled
 
-# `Add mui icons ...`
+## `Add mui icons ...`
 
-## `npm`
+### `npm`
 
 npm install @mui/icons-material
 
-## `yarn`
+### `yarn`
 
 yarn add @mui/icons-material
